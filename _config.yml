@@ -25,7 +25,7 @@ donate, please share with others. Thank you for your support either way
 
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: help-johnny-glue
 incremental: false
 highlighter: rouge
 gist:
