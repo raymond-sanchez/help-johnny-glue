@@ -16,7 +16,7 @@ is medically and physically able. It is still not clear when this will be. Unfor
 without any income from employment, he is living on social security which is not even
 enough for one person to survive in Fortuna, California. 
 
-Thecost of living is *very* high. He lives in a 10’ x 10’ studio in an area where it is
+The cost of living is *very* high. He lives in a 10’ x 10’ studio in an area where it is
 difficult to get to the grocery store or drug store. He has a vehicle, but it needs repair,
 registration and insurance, all of which prevents him from using it. We
 have been helping him as much as we possibly can, but it is not enough. He cannot
