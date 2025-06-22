@@ -22,3 +22,14 @@ much on his own. He needs assistance with purchasing food, household items,
 transportation as needed, and hopefully get his car running so he doesn’t have to
 depend on others to go to the store, etc. No donation is too small. And if you cannot
 donate, please share with others. Thank you for your support either way
+
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
