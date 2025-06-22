@@ -26,6 +26,8 @@ transportation, and hopefully to get his car running so he doesn’t have to
 depend on others to go to the store, etc. No donation is too small. And if you cannot
 donate, please share with others. Thank you for your support!
 
-You can donate to help John using the Venmo QR Code below:
+-Ericka
 
-![293155070452571366](https://github.com/user-attachments/assets/cf7fcf63-93b9-4a8c-b204-0990003951c2)
+**You can donate to help John using the Venmo QR Code below:**
+
+<img src="https://github.com/user-attachments/assets/cf7fcf63-93b9-4a8c-b204-0990003951c2" alt="image" width="500"/>
