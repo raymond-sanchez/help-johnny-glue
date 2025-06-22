@@ -30,4 +30,6 @@ donate, please share with others. Thank you for your support!
 
 **You can donate to help John using the Venmo QR Code below:**
 
+<p align="center">
 <img src="https://github.com/user-attachments/assets/cf7fcf63-93b9-4a8c-b204-0990003951c2" alt="image" width="500"/>
+</p>
