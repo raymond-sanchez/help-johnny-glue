@@ -1,4 +1,4 @@
-## Support Johnny Glue
+## Support Johnny Glue AKA John Green
 ![4316805602503899927](https://github.com/user-attachments/assets/1a8a7ac5-d224-4059-a5ba-430428f97a82)
 
 In January of last year my brother, John, was diagnosed with colorectal cancer. At the
